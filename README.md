@@ -31,34 +31,35 @@ Currently exploring and building with **Python, AI/ML, SQL, Java, Power BI, and 
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html" />
 </p>
 
-**Python • Java • SQL • HTML • C++ • Assembly • JavaScript**
+<p>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white" />
+</p>
 
 ---
 
-### 🤖 AI, Data & Development
+### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=sklearn,flask" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" />
 </p>
-
-**Scikit-learn • Flask • Power BI • Power Query • Anaconda • MySQL**
-
-**Object-Oriented Programming (OOP) • Unit Testing • Agile**
 
 ---
 
-### ☁️ Tools, Cloud & Platforms
+### ☁️ Tools / Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,azure,firebase,supabase,figma,linux,windows" />
+<img src="https://skillicons.dev/icons?i=git,github,eclipse,anaconda,flask,sklearn,azure,figma,linux,windows" />
 </p>
 
-**Git • GitHub • Eclipse • Figma • SharePoint • Microsoft Azure • Firebase • Supabase**
-
-**Windows • Linux • Microsoft Office • Google Workspace**
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" />
+</p>
 
 ---
 
