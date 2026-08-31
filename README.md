@@ -1,6 +1,20 @@
-<p align="center">
-<img src="https://www.google.com/search?q=GIF+OF+CAT+SAYING+HI+CUTE&sca_esv=488c0243a38d5a71&udm=2&biw=1280&bih=585&sxsrf=APpeQnvl1h8pa5Qs7bUtMMUXBqWTOSrVgw%3A1788156564315&ei=lBqVaqPrEunXruEP74D0oA0&ved=0ahUKEwijhcammsqWAxXpqysGHW8AHdQQ4dUDCBE&uact=5&oq=GIF+OF+CAT+SAYING+HI+CUTE&gs_lp=Egtnd3Mtd2l6LWltZyIZR0lGIE9GIENBVCBTQVlJTkcgSEkgQ1VURUjeC1CIAlimCXABeACQAQCYAZEBoAGHA6oBAzQuMbABALgBA8gBAPgBAZgCAKACAJgDAOIDBBgAIF3iAwQYACBe4gMEGAAgX-IDBBgAIGDiAwQYACBh4gMEGAAgYogGAZIHAKAHPLIHALgHAMIHAMgHAIAIAQ&sclient=gws-wiz-img#sv=CAMSURoyKhBlLXJNOTRGVEJ0V0ptOUxNMg5yTTk0RlRCdFdKbTlMTToOY0IxSUtuWDd5RE9FX00gBCoXCgFzEhBlLXJNOTRGVEJ0V0ptOUxNGAEwARgHIO7vm80BSggQARgBIAEoAQ" width="200">
-</p>
+<table>
+<tr>
+<td>
+
+## Hi, I'm Insha 👋
+
+💻 Computer Science  
+🤖 AI & Software Development  
+🚀 Always building something new
+
+</td>
+
+<td>
+<img src="https://tenor.com/view/bts-cats-cat-walking-pink-ribbon-kitten-gif-14565873" width="250">
+</td>
+</tr>
+</table>
 
 ---
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A78BFA&height=160&section=header&text=Insha%20Waseem&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Computer%20Science%20%7C%20AI%20%7C%20Software%20Development&descAlignY=60&descSize=18" alt="header"/>
