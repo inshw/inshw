@@ -1,11 +1,5 @@
 <p align="center">
-
-![Profile](https://img.shields.io/badge/INsha%20Waseem-7F3ACE?style=for-the-badge&logo=github&logoColor=white)
-
-![CS](https://img.shields.io/badge/Computer%20Science-00C7B7?style=for-the-badge)
-
-![AI](https://img.shields.io/badge/AI%20Enthusiast-FF4D8D?style=for-the-badge)
-
+<img src="https://www.google.com/search?q=GIF+OF+CAT+SAYING+HI+CUTE&sca_esv=488c0243a38d5a71&udm=2&biw=1280&bih=585&sxsrf=APpeQnvl1h8pa5Qs7bUtMMUXBqWTOSrVgw%3A1788156564315&ei=lBqVaqPrEunXruEP74D0oA0&ved=0ahUKEwijhcammsqWAxXpqysGHW8AHdQQ4dUDCBE&uact=5&oq=GIF+OF+CAT+SAYING+HI+CUTE&gs_lp=Egtnd3Mtd2l6LWltZyIZR0lGIE9GIENBVCBTQVlJTkcgSEkgQ1VURUjeC1CIAlimCXABeACQAQCYAZEBoAGHA6oBAzQuMbABALgBA8gBAPgBAZgCAKACAJgDAOIDBBgAIF3iAwQYACBe4gMEGAAgX-IDBBgAIGDiAwQYACBh4gMEGAAgYogGAZIHAKAHPLIHALgHAMIHAMgHAIAIAQ&sclient=gws-wiz-img#sv=CAMSURoyKhBlLXJNOTRGVEJ0V0ptOUxNMg5yTTk0RlRCdFdKbTlMTToOY0IxSUtuWDd5RE9FX00gBCoXCgFzEhBlLXJNOTRGVEJ0V0ptOUxNGAEwARgHIO7vm80BSggQARgBIAEoAQ" width="200">
 </p>
 
 ---
