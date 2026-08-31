@@ -26,44 +26,39 @@ Currently exploring and building with **Python, AI/ML, SQL, Java, Power BI, and 
 
 ---
 
-🛠️ Tech Stack
-💻 Programming Languages
+## 🛠️ Tech Stack
 
-<p> <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" /> </p>
+### 💻 Languages
 
-Python • Java • SQL • HTML • C++ • Assembly • JavaScript
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,mysql" />
+</p>
 
-🤖 AI, Machine Learning & Data
+**Python • Java • SQL • HTML • C++ • Assembly • JavaScript**
 
-<p> <img src="https://skillicons.dev/icons?i=python,sklearn" /> </p>
+---
 
-Scikit-learn • Power BI • Power Query • Anaconda
+### 🤖 AI, Data & Development
 
-🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=sklearn,flask" />
+</p>
 
-<p> <img src="https://skillicons.dev/icons?i=mysql" /> </p>
+**Scikit-learn • Flask • Power BI • Power Query • Anaconda • MySQL**
 
-MySQL
+**Object-Oriented Programming (OOP) • Unit Testing • Agile**
 
-🔧 Tools & Frameworks
+---
 
-<p> <img src="https://skillicons.dev/icons?i=git,github,flask,eclipse,figma" /> </p>
+### ☁️ Tools, Cloud & Platforms
 
-Git • GitHub • Flask • Eclipse • Figma • SharePoint
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,azure,firebase,supabase,figma,linux,windows" />
+</p>
 
-🧩 Software Development & Methodologies
+**Git • GitHub • Eclipse • Figma • SharePoint • Microsoft Azure • Firebase • Supabase**
 
-Object-Oriented Programming (OOP) • Unit Testing • Agile
-
-🖥️ Platforms
-
-<p> <img src="https://skillicons.dev/icons?i=windows,linux" /> </p>
-
-Windows • Linux
-
-📊 Productivity & Collaboration
-
-Microsoft Office • Google Workspace • SharePoint
+**Windows • Linux • Microsoft Office • Google Workspace**
 
 ---
 
