@@ -30,14 +30,9 @@ Currently exploring and building with **Python, AI/ML, SQL, Java, Power BI, and 
 
 ### 💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html" />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" /> </p>
 
-<p>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white" />
-</p>
+<p> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white" /> </p>
 
 ---
 
