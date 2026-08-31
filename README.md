@@ -39,8 +39,7 @@ Currently exploring and building with **Python, AI/ML, SQL, Java, Power BI, and 
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,firebase,supabase,snowflake,azure" />
-![Snowflake](https://skillicons.dev/icons?i=snowflake)
+<img src="https://skillicons.dev/icons?i=mysql,firebase,supabase,snowflake" />
 </p>
 
 ---
@@ -48,7 +47,7 @@ Currently exploring and building with **Python, AI/ML, SQL, Java, Power BI, and 
 ### ☁️ Tools / Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,eclipse,anaconda,flask,sklearn,figma,linux,windows" />
+<img src="https://skillicons.dev/icons?i=git,github,eclipse,anaconda,flask,sklearn,figma,azure,linux,windows" />
 </p>
 
 <p>
