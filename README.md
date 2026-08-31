@@ -65,7 +65,6 @@ Currently exploring and building with **Python, AI/ML, SQL, Java, Power BI, and 
 
 🧠 Co-developed an AI-powered web application combining music therapy, mood tracking, medication reminders, and an AI chatbot, improving user engagement by 40%.
 
----
 
 ## 🛡️ HearMe — Voice-First AI Safety Companion
 
