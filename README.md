@@ -4,7 +4,7 @@
 
 ### 💻 Computer Science @ York University | 🤖 AI • Software • Data
 
-**I enjoy turning problems into working solutions — and learning something new along the way.**
+**I enjoy turning problems into working solutions and learning something new along the way.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/insha-waseem-988374344/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/inshw)
