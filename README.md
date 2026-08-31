@@ -1,3 +1,12 @@
+<h1 align="center">
+  <code>&lt; Insha Waseem /&gt;</code>
+</h1>
+
+<p align="center">
+  Computer Science Student | Software Developer | AI Enthusiast
+</p>
+
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A78BFA&height=160&section=header&text=Insha%20Waseem&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Computer%20Science%20%7C%20AI%20%7C%20Software%20Development&descAlignY=60&descSize=18" alt="header"/>
 
 <div align="center">
