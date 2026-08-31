@@ -1,16 +1,14 @@
-# 👋 Hi, I'm Insha Waseem
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A78BFA&height=160&section=header&text=Insha%20Waseem&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Computer%20Science%20%7C%20AI%20%7C%20Software%20Development&descAlignY=60&descSize=18" alt="header"/>
 
 <div align="center">
 
 ### 💻 Computer Science Student | 🤖 AI Enthusiast | 🚀 Builder
 
-**I enjoy turning problems into working solutions — and learning something new along the way.**
+**I enjoy turning problems into working solutions and learning something new along the way.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/insha-waseem-988374344/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/inshw)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto: inshw543@my.yorku.ca)
 
 </div>
 
@@ -22,41 +20,9 @@ I'm a **Computer Science student at York University** with a strong interest in 
 
 I'm especially interested in the intersection of **AI + software engineering + data** — from building intelligent applications to using data to make better decisions.
 
-> 💡 **My mindset:** When I encounter a problem, I get excited — because solving it means I get to learn something new.
+> 💡 **My mindset:** When I encounter a problem, I get excited because solving it means I get to learn something new.
 
 Currently exploring and building with **Python, AI/ML, SQL, Java, Power BI, and web technologies**.
-
----
-
-## 🚀 What I Build
-
-I love working on projects that combine technical problem-solving with real-world impact.
-
-### 🤖 AI & Machine Learning
-
-* AI-powered applications
-* Natural Language Processing
-* Sentiment Analysis
-* AI chatbots
-* Machine Learning models
-* AI-assisted productivity solutions
-
-### 💻 Software Development
-
-* Object-Oriented Programming
-* Web applications
-* REST APIs
-* Full-stack projects
-* Testing & debugging
-* Data-driven applications
-
-### 📊 Data & Analytics
-
-* SQL & relational databases
-* Data transformation with Power Query
-* Power BI dashboards
-* Data analysis with Python
-* Turning raw data into useful insights
 
 ---
 
@@ -118,18 +84,6 @@ A machine-learning application that analyzes movie reviews and predicts whether 
 
 ---
 
-## 🎮 Questria — Gamified Learning Platform
-
-**SQL • JavaScript • Web Development**
-
-A gamified learning platform designed to make learning more interactive and engaging.
-
-* Built functionality using **SQL and JavaScript**
-* Designed around interactive learning experiences
-* Developed with scalability and usability in mind
-
----
-
 ## 🗣️ Hear_Me — Voice-First AI Safety Companion
 
 **AI • Python • Voice Technology**
@@ -148,7 +102,7 @@ An AI-focused project exploring how voice-first technology can make digital assi
 
 **Power BI • Python • Power Query • SharePoint**
 
-* Engineered custom **LLM prompts** to automate meeting transcript summaries
+* Engineered custom **co-pilot prompts** to automate meeting transcript summaries
 * Developed **Power BI dashboards** from Excel datasets using Power Query
 * Worked with **SharePoint environments**
 * Applied technical and analytical problem-solving in a government environment
@@ -156,20 +110,6 @@ An AI-focused project exploring how voice-first technology can make digital assi
 ---
 
 # 📚 Currently Learning
-
-I'm continuously expanding my technical toolkit.
-
-```text
-Artificial Intelligence
-       ↓
-Machine Learning
-       ↓
-Data & Analytics
-       ↓
-Cloud Technologies
-       ↓
-Software Engineering
-```
 
 Currently interested in learning more about:
 
