@@ -18,7 +18,7 @@
 
 I'm a **Computer Science student at York University** with a strong interest in **Artificial Intelligence, software development, data, and building technology that solves real problems**.
 
-I'm especially interested in the intersection of **AI + software engineering + data** — from building intelligent applications to using data to make better decisions.
+I'm especially interested in the intersection of **AI + software engineering + data** ; from building intelligent applications to using data to make better decisions.
 
 > 💡 **My mindset:** When I encounter a problem, I get excited because solving it means I get to learn something new.
 
