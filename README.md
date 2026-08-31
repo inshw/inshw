@@ -2,9 +2,9 @@
 
 <div align="center">
 
-### 💻 Computer Science Student | 🤖 AI Enthusiast | 🚀 Builder
+### 💻 Computer Science @ York University | 🤖 AI • Software • Data
 
-**I enjoy turning problems into working solutions and learning something new along the way.**
+**I enjoy turning problems into working solutions — and learning something new along the way.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/insha-waseem-988374344/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/inshw)
@@ -101,21 +101,6 @@ Currently interested in learning more about:
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=inshw&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-# 🎯 What I'm Looking For
-
-I'm interested in opportunities where I can:
-
-**→ Build real software**
-**→ Work with AI & data**
-**→ Solve meaningful technical problems**
-**→ Learn from experienced developers**
-**→ Contribute to a team**
-**→ Turn ideas into working products**
-
-I'm always looking for the next problem to solve and the next thing to learn.
 
 ---
 
