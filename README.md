@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Insha%20Waseem&fontSize=50&fontAlignY=35&animation=twinkling" />
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=7F3ACE&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%F0%9F%92%BB;AI+%26+Software+Developer+%F0%9F%A4%96;Building+%7C+Learning+%7C+Creating+%F0%9F%9A%80" />
+![Profile](https://img.shields.io/badge/INsha%20Waseem-7F3ACE?style=for-the-badge&logo=github&logoColor=white)
+
+![CS](https://img.shields.io/badge/Computer%20Science-00C7B7?style=for-the-badge)
+
+![AI](https://img.shields.io/badge/AI%20Enthusiast-FF4D8D?style=for-the-badge)
+
 </p>
 
 ---
