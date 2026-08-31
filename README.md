@@ -1,9 +1,11 @@
-<h1 align="center">
-  <code>&lt; Insha Waseem /&gt;</code>
-</h1>
+<h1 align="center">INSHА WASEEM</h1>
 
 <p align="center">
-  Computer Science Student | Software Developer | AI Enthusiast
+  <b>Computer Science Student • Software Developer • AI Enthusiast</b>
+</p>
+
+<p align="center">
+  Building projects, solving problems, and learning something new every day.
 </p>
 
 
