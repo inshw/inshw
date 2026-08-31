@@ -100,14 +100,31 @@ Currently interested in learning more about:
 
 # 📈 GitHub Activity
 
-<div align="center">
+### 🏆 GitHub Achievements
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=inshw&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=inshw&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inshw&layout=compact&hide_border=true&theme=tokyonight" />
+### 📈 Contribution Activity
 
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=inshw&theme=github-compact&hide_border=true" />
+</p>
 
+### 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=inshw&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=inshw&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
+
+Your contribution squares
+        ↓
+🐍 🐍 🐍 🐍 🐍
 ---
 
 # 🎯 What I'm Looking For
