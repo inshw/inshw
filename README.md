@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=7F3ACE&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Insha+Waseem+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%92%BB;AI+%26+Software+Developer+%F0%9F%A4%96;Always+Building+%26+Learning+%F0%9F%9A%80" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Insha%20Waseem&fontSize=50&fontAlignY=35&animation=twinkling" />
 </p>
 
 ---
