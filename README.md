@@ -9,10 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/insha-waseem-988374344/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/inshw)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:inshw543@my.yorku.ca)
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=inshw&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
-
 </div>
 
 ---
