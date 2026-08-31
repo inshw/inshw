@@ -74,19 +74,6 @@ An AI-powered web application designed to support engagement for individuals wit
 
 ---
 
-## 🎬 Movie Review Classifier
-
-**Python • Scikit-learn • Machine Learning • Flask**
-
-A machine-learning application that analyzes movie reviews and predicts whether the sentiment is positive or negative.
-
-* Built a **sentiment analysis model**
-* Achieved **87% classification accuracy**
-* Used **Scikit-learn** for machine learning
-* Deployed the model through a **Flask web application**
-
----
-
 ## 🗣️ Hear_Me — Voice-First AI Safety Companion
 
 **AI • Python • Voice Technology**
@@ -96,19 +83,6 @@ An AI-focused project exploring how voice-first technology can make digital assi
 * Designed a voice-driven AI experience
 * Applied Python-based AI concepts
 * Developed during **ElleHacks**
-
----
-
-# 💼 Experience
-
-### 🏛️ Junior Technical Analyst — Ontario Public Service
-
-**Power BI • Python • Power Query • SharePoint**
-
-* Engineered custom **co-pilot prompts** to automate meeting transcript summaries
-* Developed **Power BI dashboards** from Excel datasets using Power Query
-* Worked with **SharePoint environments**
-* Applied technical and analytical problem-solving in a government environment
 
 ---
 
@@ -128,9 +102,9 @@ Currently interested in learning more about:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=inshw543&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inshw543&layout=compact&hide_border=true&theme=tokyonight" />
 
 </div>
 
