@@ -100,16 +100,10 @@ Currently interested in learning more about:
 
 # 📈 GitHub Activity
 
-### 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=inshw&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
-</p>
-
 ### 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=inshw&theme=github-compact&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=inshw" />
 </p>
 
 ### 🔥 Contribution Streak
@@ -122,9 +116,6 @@ Currently interested in learning more about:
 <img src="https://komarev.com/ghpvc/?username=inshw&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
-Your contribution squares
-        ↓
-🐍 🐍 🐍 🐍 🐍
 ---
 
 # 🎯 What I'm Looking For
