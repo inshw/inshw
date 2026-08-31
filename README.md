@@ -1,12 +1,8 @@
-<h1 align="center">
-  <span>Insha Waseem</span>
-</h1>
-
 <p align="center">
-  <code>Computer Science × AI × Software Development</code>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=7F3ACE&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Insha+Waseem+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%92%BB;AI+%26+Software+Developer+%F0%9F%A4%96;Always+Building+%26+Learning+%F0%9F%9A%80" />
 </p>
 
-
+---
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A78BFA&height=160&section=header&text=Insha%20Waseem&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Computer%20Science%20%7C%20AI%20%7C%20Software%20Development&descAlignY=60&descSize=18" alt="header"/>
 
 <div align="center">
