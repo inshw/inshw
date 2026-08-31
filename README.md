@@ -63,17 +63,17 @@ Currently exploring and building with **Python, AI/ML, SQL, Java, Power BI, and 
 
 **AI • Python • Streamlit • Gemini API • Flask | ElleHacks 2025**
 
-•🧠 Co-developed an AI-powered web application combining music therapy, mood tracking, medication reminders, and an AI chatbot.
-•📈 Implemented AI functionality with Gemini API, Python, Streamlit, and Flask, improving user engagement by 40%.
+-🧠 Co-developed an AI-powered web application combining music therapy, mood tracking, medication reminders, and an AI chatbot.
+-📈 Implemented AI functionality with Gemini API, Python, Streamlit, and Flask, improving user engagement by 40%.
 
 ---
 
-** 🛡️ HearMe — Voice-First AI Safety Companion
+## 🛡️ HearMe — Voice-First AI Safety Companion
 
 **AI • Python • Streamlit • Gemini API • ElevenLabs | ElleHacks 2026**
 
-•🎙️ Built a voice-first AI companion using Streamlit and Gemini API for hands-free conversational support.
-•🔊 Integrated ElevenLabs for AI voice responses and designed quick-access safety features for emergency situations.
+-🎙️ Built a voice-first AI companion using Streamlit and Gemini API for hands-free conversational support.
+-🔊 Integrated ElevenLabs for AI voice responses and designed quick-access safety features for emergency situations.
 
 ---
 
