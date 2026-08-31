@@ -102,9 +102,9 @@ Currently interested in learning more about:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=inshw543&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=inshw&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inshw543&layout=compact&hide_border=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inshw&layout=compact&hide_border=true&theme=tokyonight" />
 
 </div>
 
