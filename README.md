@@ -59,40 +59,27 @@ Currently exploring and building with **Python, AI/ML, SQL, Java, Power BI, and 
 
 # ⭐ Featured Projects
 
-## 🎵 MoodTunes — AI Music Therapy
+## 🎵 MoodTunes — AI Music Therapy Website
 
-**AI • Python • Flask**
+**AI • Python • Streamlit • Gemini API • Flask | ElleHacks 2025**
 
-An AI-powered web application designed to support engagement for individuals with Alzheimer's disease through personalized music and interaction.
-
-* 🤖 Built an AI chatbot using **Python & Flask**
-* 🎵 Connected technology with personalized music experiences
-* 📈 Improved user engagement by **40%**
-* 🧠 Developed as part of **ElleHacks 2025**
+🧠 Co-developed an AI-powered web application combining music therapy, mood tracking, medication reminders, and an AI chatbot.
+📈 Implemented AI functionality with Gemini API, Python, Streamlit, and Flask, improving user engagement by 40%.
 
 ---
 
-## 🗣️ Hear_Me — Voice-First AI Safety Companion
+**🛡️ HearMe — Voice-First AI Safety Companion
 
-**AI • Python • Voice Technology**
+**AI • Python • Streamlit • Gemini API • ElevenLabs | ElleHacks 2026**
 
-An AI-focused project exploring how voice-first technology can make digital assistance more accessible and responsive.
-
-* Designed a voice-driven AI experience
-* Applied Python-based AI concepts
-* Developed during **ElleHacks**
+🎙️ Built a voice-first AI companion using Streamlit and Gemini API for hands-free conversational support.
+🔊 Integrated ElevenLabs for AI voice responses and designed quick-access safety features for emergency situations.
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
-Currently interested in learning more about:
-
-**☁️ Cloud & AWS**
-**🤖 Advanced AI / LLM Applications**
-**🔗 AI + Web Applications**
-**📊 Data Engineering & Analytics**
-**⚙️ Software Engineering**
+🤖 **LLMs & AI Applications** • ☁️ **Cloud & AWS** • 📊 **Data Engineering** • ⚙️ **Software Engineering**
 
 ---
 
