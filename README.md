@@ -40,6 +40,7 @@ Currently exploring and building with **Python, AI/ML, SQL, Java, Power BI, and 
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase,snowflake,azure" />
+![Snowflake](https://skillicons.dev/icons?i=snowflake)
 </p>
 
 ---
