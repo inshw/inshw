@@ -26,33 +26,44 @@ Currently exploring and building with **Python, AI/ML, SQL, Java, Power BI, and 
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
+💻 Programming Languages
 
-### Languages
+<p> <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" /> </p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,sql" />
-</p>
+Python • Java • SQL • HTML • C++ • Assembly • JavaScript
 
-### AI / Data
+🤖 AI, Machine Learning & Data
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,sklearn" />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=python,sklearn" /> </p>
 
-**Python • Scikit-learn • Pandas • Power BI • Power Query**
+Scikit-learn • Power BI • Power Query • Anaconda
 
-### Frameworks & Development
+🗄️ Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=flask,git,github,mysql" />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=mysql" /> </p>
 
-**Flask • Git • GitHub • MySQL • REST APIs**
+MySQL
 
-### Platforms & Tools
+🔧 Tools & Frameworks
 
-**Power BI • SharePoint • Microsoft Office • Google Workspace • Windows • Linux**
+<p> <img src="https://skillicons.dev/icons?i=git,github,flask,eclipse,figma" /> </p>
+
+Git • GitHub • Flask • Eclipse • Figma • SharePoint
+
+🧩 Software Development & Methodologies
+
+Object-Oriented Programming (OOP) • Unit Testing • Agile
+
+🖥️ Platforms
+
+<p> <img src="https://skillicons.dev/icons?i=windows,linux" /> </p>
+
+Windows • Linux
+
+📊 Productivity & Collaboration
+
+Microsoft Office • Google Workspace • SharePoint
 
 ---
 
