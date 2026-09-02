@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A78BFA&height=160&section=header&text=Insha%20Waseem&fontSize=65&fontColor=ffffff&fontAlignY=35&descAlignY=60&descSize=18" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A78BFA&height=150&section=header&text=Insha%20Waseem&fontSize=65&fontColor=ffffff&fontAlignY=35&descAlignY=60&descSize=18" alt="header"/>
 
 <div align="center">
 
