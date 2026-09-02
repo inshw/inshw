@@ -96,6 +96,7 @@ If you're interested in **AI, software development, data, or building something 
 <div align="center">
 
 ### ✨ Thanks for visiting my GitHub!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/insha-waseem-988374344/)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A78BFA&height=120&section=footer" alt="footer"/>
 
